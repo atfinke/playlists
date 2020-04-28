@@ -1,5 +1,5 @@
 # playlists
-8+ years of public playlists.
+8+ years of public playlists. [Last.fm Profile](https://www.last.fm/user/andrewfinke).
 
 
 ## Main
