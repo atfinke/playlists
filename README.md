@@ -6,7 +6,8 @@
 
 | Name  | Tracks |  Link |
 | --| --|--|
-|SG20\*|~800|[Spotify](https://open.spotify.com/playlist/7nGoorL8apZ7PajkOYnTEs?si=BuP7NTZrSWm80aWjrTYAyg)|
+|S20\*|~750|[Spotify](https://open.spotify.com/playlist/6fxATbOXB1OHfqfsiN6nVE?si=u7dvKf61TceWp29N9xoQEQ)|
+|SG20|787|[Spotify](https://open.spotify.com/playlist/7nGoorL8apZ7PajkOYnTEs?si=BuP7NTZrSWm80aWjrTYAyg)|
 |W19|138|[Spotify](https://open.spotify.com/playlist/1xnl4hFciPdhiqFxVh73HK?si=lzyd4AEIT42X46sG5PiMlw)|
 |F19|77|[Spotify](https://open.spotify.com/playlist/1vfKbVj4GhXOfUVZtBc2Ov?si=n8Yc-TVHQEeUem_m0JW-tA)|
 |S19|1316|[Spotify](https://open.spotify.com/playlist/5BItMLRrCQawnsSg9cMWa6?si=A1GWDicdTRmD0zf5crUuCw)|
